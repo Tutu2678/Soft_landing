@@ -1,8 +1,6 @@
-# Lunar-Lander-DQN-DDQN
+# Lunar Lander Soft Landing Using PPO, PRE, and Deep Q-learning methods
 Deep Reinforcement Learning on Lunar Lander gym environment
 
-This repo contains the files for the Deep Q-Network and Double Deep Q-Network used to solve the OpenAI Gym Environment called 'LunarLander-v2'.
-I have used Experience Replay and Priortized Experience Replay for memory sampling.
 
 <img src="/src/plots/LunarLander-v2_result_20240510025357.png"/>
 
