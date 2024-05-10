@@ -26,7 +26,7 @@ Deep Reinforcement Learning on Lunar Lander gym environment
 
 <img src="/src/plots/agent_comparison.png"/>
 
-<img src="lunarLanderResult.gif"/>
+<img src="SoftLanding.mp4"/>
 
 Installation Steps:
 
