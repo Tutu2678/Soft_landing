@@ -1,6 +1,6 @@
 # Lunar Lander Soft Landing Using PPO, PRE, and Deep Q-learning methods
 
-Deep Reinforcement Learning on Lunar Lander gym environment
+Comparative Analysis of Reinforcement Learning Algorithms: Proximal Policy Optimization, Prioritized Experienced Repay, Deep Q-Network and Double Deep Q- Network in the Lunar Lander Simulation
 
 # Value Loss Policy of PPO
 
@@ -44,3 +44,8 @@ pip install git+https://github.com/openai/gym.git@0.15.4
 
 ## PS:- For running PPO
 pip install gym==0.26.2
+
+# Video Presentation Panopto:
+https://uniofbath.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e575775d-646f-4bfd-9405-b16c00a71d2e
+![image](https://github.bath.ac.uk/storage/user/6736/files/781b4698-daee-4d0c-a794-875ac0e166fc)
+
