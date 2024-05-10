@@ -35,8 +35,8 @@ git clone https://github.bath.ac.uk/nj585/softlanding.git
 
 pip install -r requirements.txt
 
-## PS:- For Running DQN, DDQN & PRE, run
+## PS:- For Running DQN, DDQN & PRE
 pip install git+https://github.com/openai/gym.git@0.15.4
 
-# PS:- For running PPO
+## PS:- For running PPO
 pip install gym
