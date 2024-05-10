@@ -32,7 +32,9 @@ Deep Reinforcement Learning on Lunar Lander gym environment
 # Installation Steps:
 
 git clone https://github.bath.ac.uk/nj585/softlanding.git
+
 Install Python3
+
 Install Anaconda
 
 pip install -r requirements.txt
