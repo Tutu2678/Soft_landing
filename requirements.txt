@@ -1,15 +1,12 @@
-pygame
-numpy
-opencv-python
-torch
-gym[all]
+pygame==2.5.2
+numpy==1.26.4
+opencv-python==4.9.0.80
+swig==4.2.1
+torch==2.3.0
+gym
 gym[box2d]
 box2d-py
 pytorch
-torchvision
-torchaudio
-cudatoolkit
-pytorch
-torchsummary
-mujoco-py
+torchvision==0.18.0
+torchaudio==2.3.0
 
