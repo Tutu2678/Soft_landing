@@ -27,10 +27,16 @@ Deep Reinforcement Learning on Lunar Lander gym environment
 <img src="/src/plots/agent_comparison.png"/>
 
 # Soft Landing Multiple Episode Video(PPO)
-<img src="/src/SoftLanding.gif"/>
+<img src="/SoftLanding.gif"/>
 
-Installation Steps:
+# Installation Steps:
 
 git clone https://github.bath.ac.uk/nj585/softlanding.git
 
 pip install -r requirements.txt
+
+## PS:- For Running DQN, DDQN & PRE, run
+pip install git+https://github.com/openai/gym.git@0.15.4
+
+# PS:- For running PPO
+pip install gym
