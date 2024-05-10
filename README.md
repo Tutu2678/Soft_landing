@@ -27,7 +27,7 @@ Deep Reinforcement Learning on Lunar Lander gym environment
 <img src="/src/plots/agent_comparison.png"/>
 
 # Soft Landing Multiple Episode Video(PPO)
-<video src='/src/SoftLanding.mp4' width=300/>
+<img src="/src/SoftLanding.gif"/>
 
 Installation Steps:
 
