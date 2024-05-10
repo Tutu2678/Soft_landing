@@ -25,11 +25,8 @@ Deep Reinforcement Learning on Lunar Lander gym environment
 # Agent Comparission Between PPO, DQN, DDQN & PER
 
 <img src="/src/plots/agent_comparison.png"/>
-
-
 # Soft Landing Multiple Episode Video(PPO)
-
-<video src='SoftLanding.mp4' width=200/>
+<img src="SoftLanding.gif"/>
 
 Installation Steps:
 
