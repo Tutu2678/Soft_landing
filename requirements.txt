@@ -3,5 +3,13 @@ numpy
 opencv-python
 torch
 gym[all]
+gym[box2d]
 box2d-py
+pytorch
+torchvision
+torchaudio
+cudatoolkit
+pytorch
+torchsummary
+mujoco-py
 
