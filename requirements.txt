@@ -1,0 +1,7 @@
+pygame
+numpy
+opencv-python
+torch
+gym[all]
+box2d-py
+
