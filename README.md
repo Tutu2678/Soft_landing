@@ -31,7 +31,7 @@ Comparative Analysis of Reinforcement Learning Algorithms: Proximal Policy Optim
 
 # Installation Steps:
 
-git clone https://github.bath.ac.uk/nj585/softlanding.git
+git clone https://github.com/Tutu2678/Soft_landing.git
 
 Install Python3
 
